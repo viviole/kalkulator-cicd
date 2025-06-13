@@ -34,7 +34,7 @@ console.log("--- Memulai Tes Unit Kalkulator ---");
 
 assert(
   testPerformCalculation("2+2") === 4,
-  "Tes Penjumlahan: 2+2 seharusnya 4"
+  "Tes Penjumlahan: 2+2s seharusnya 4"
 );
 
 assert(
